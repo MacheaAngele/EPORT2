@@ -1,0 +1,68 @@
+<html>
+    <head><title> Lessons for 2nd Qtr</title></head>
+    <style>
+    .description{color:#1f1e1e; background-color:#edebe8;}
+    body{font-family:Times New Roman; background-image:url(871796e18e765e3d420673341ef63cc2.jpg); background-size:cover; background-position:center; background-repeat: no-repeat;} 
+    h1{color:#faefe3;} 
+    div{padding:20px; margin:5px;} 
+    img{height:275px; width:250px; 
+    margin:20px; 
+    float:right;} </style> 
+    <body> 
+    <h1 align="center"> ʚLesson 1 & 2ɞ </h1> 
+    <p class="description"><font size="5"> For Lessons 1 & 2, we mainly discussed the types of styles in CSS, which includes the Inline, Embedded, and Linked Styles. </font></p>
+   <br><br><video width="400" height="350" controls>
+  <source src="inline.mp4" type="video/mp4"alt="inline"></video>
+  <video width="400" height="350" controls>
+  <source src="embedded.mp4" type="video/mp4"alt="embedded"></video>
+  <video width="400" height="350" controls>
+  <source src="linked.mp4" type="video/mp4"alt="linked"></video>
+  <style>
+  h1{color:#faefe3;} 
+    div{padding:20px; margin:5px;} 
+    img{height:235px; width:500px; 
+    margin:20px; 
+    float:right;} </style> 
+    <body> 
+    <h1 align="center"> ʚLesson 3ɞ</h1> 
+    <img src="syntax.jpg"><br>
+    <p class="description"><font size="5"> For Lesson 3, it was discussed here that CSS is case sensitive, punctuation, and requires white space. There are also different style properties that include fonts, color and backgrounds, text, boxes and layout, lists, and tag classification. In thiese properties thate are also five possible categories of calue, which are keywords, length values, percentage values, URL, color, and display. The picture shown is the CSS syntax that we use.  </font></p><br><br><br><br>
+    <style>
+  h1{color:#faefe3;} 
+    div{padding:20px; margin:5px;} 
+    img{height:235px; width:500px; 
+    margin:20px; 
+    float:right;} </style> 
+    <body> 
+    <h1 align="center"> ʚLesson 4ɞ</h1> 
+    <br>
+    <p class="description"><font size="5"> For Lesson 4, the main topics are the span tag, div tag, and classes. The span tag is used to emphasize a word or a sentence in a paragraph, while the div tag is used to divide the contents in a web page into individual sections. Classes are used to apply a style rule to specific HTML tags. </font></p>
+   <br><br><video width="400" height="350" controls>
+  <source src="span.mp4" type="video/mp4"alt="span"></video>
+ <video width="400" height="350" controls>
+  <source src="div.mp4" type="video/mp4"alt="div"></video>
+  <br>
+   <style>
+  h1{color:#faefe3;} 
+    div{padding:20px; margin:5px;} 
+    img{height:235px; width:500px; 
+    margin:20px; 
+    float:right;} </style> 
+    <body> 
+    <h1 align="center"> ʚLesson 5ɞ</h1> 
+   <br>
+    <p class="description"><font size="5"> For Lesson 5, here we discuss selectors, setting dimensions, and pseudo-classes. Using CSS you can group selectors just by adding a comma. When we say setting dimensions, it means that you get to have a good way of controlling paragraphs, tables, etc. In the anchor element, we have 4 pseudo classes, which are link, visited, hover, and active </font></p>
+   <br><br><video width="400" height="350" controls>
+  <source src="link.mp4" type="video/mp4"alt="link"></video>
+  <br>
+  <style>
+  h1{color:#faefe3;} 
+    div{padding:20px; margin:5px;} 
+    img{height:235px; width:500px; 
+    margin:20px; 
+    float:right;} </style> 
+    <body> 
+    <h1 align="center"> ʚLessons 6 & 7ɞ</h1> 
+<br>
+    <p class="description"><font size="5"> For Lesson 6 & 7, here we discuss the formatting of text and layout using CSS. An example of this would be the codes that I am using to make this website. I've used the font styles such as font-family, font-size,and etc. I also used the float properties for the images that I used for this e-portfolio. However there are many other codes that you can use to layout your website, so that it can be more pleasant to look at</font></p>
+   

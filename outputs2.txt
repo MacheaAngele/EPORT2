@@ -1,0 +1,58 @@
+<html>
+    <head><title> 2nd Quarter Activities !! (〜^∇^)〜</title></head>
+    <style> 
+    body{font-family:Times New Roman; background-image:url(81c9bccb584cff3901250a31c04a8aed.jpg); background-size:cover; background-position:center; background-repeat: no-repeat;} 
+    h1{color:#362623;} 
+    div{padding:20px; margin:5px;} 
+    img{height:275px; width:250px; 
+    margin:20px; 
+    float:left;} </style> 
+    <body> 
+    <h1>AP Historical Icon 🕰️💡 </h1> 
+    <img src="462569589_2149501412523460_4532917164929666900_n.jpg"><br><img src="462546066_558107440420883_5544894679480604016_n.jpg">
+    <p><font size="5"><br><br>For our AP Historical Icon, we had Izza Enriquez representing as Marsha P. Johnson. We spent a lot of time making her costume from recycled materials, such as plastic bottles, used fabric pieces, scratch paper, etc. We weren't able to win a place, however I am very proud of Izza and my section since we were able to create a costume from scratch and that takes a lot of time and work.</font></p>
+    <br><br><br>
+    <style>
+    h1{color:#362623;} 
+    div{padding:20px; margin:5px;} 
+    img{height:250px; width:375px; 
+    margin:20px; 
+    float:left;}</style>
+    <body> 
+    <h1>Booklandia 🧸📜 </h1> 
+    <img src="462571360_543071035297841_5142510536636096074_n.jpg"><br>
+    <p><font size="5"><br><br>As you can see in the picture, we have Anthony Ferrer and Jewel Lim as our representatives for the English Month's Booklandia. Their characters are Katara and Zuko from Avatar.The sashes are also handmade by the class! </font></p>
+    <br><br><br><br><br>
+    <style>
+    h1{color:#362623;} 
+    div{padding:20px; margin:5px;} 
+    img{height:250px; width:375px; 
+    margin:20px; 
+    float:left;}</style>
+    <body> 
+    <h1> INTRAMS 24'-25'🏀🏐</h1> 
+    <img src="462549019_549428254614038_792676579070920667_n.jpg"><br>
+    <p><font size="5"><br><br> Yellowww Teaaam !! This picture was taken at the opening of INTRAMS 24'-25' when all teams present their powerful cheers. It was really fun hearing everybody supporting their own teams and the chants they prepared.</font></p>
+    <br><br><br><br><br>
+    <style>
+    h1{color:#362623;} 
+    div{padding:20px; margin:5px;} 
+    img{height:250px; width:375px; 
+    margin:20px; 
+    float:left;}</style>
+    <body> 
+    <h1> Happy Teachers' Day! 🩵💙</h1> 
+    <img src="462568125_822242769930908_1503660999031516796_n.jpg"><br>
+    <p><font size="5"><br><br> This day was full of laughter and joy! It started off with the Mini-chers program, where students get to teach their fellow classmates like a teacher. After that, it was a classroom-based program, where we surprise and come up with games that the assigned teachers can participate. It was such a fun day and I really hope that the teachers had a fun time as well.</font></p>
+    <br><br><br>
+    <style>
+    h1{color:#362623;} 
+    div{padding:20px; margin:5px;} 
+    img{height:250px; width:375px; 
+    margin:20px; 
+    float:left;}</style>
+    <body> 
+    <h1> Book Parade 📚🌼</h1> 
+    <img src="462570398_1666617900953636_3729563405341269281_n.jpg"><br>
+    <p><font size="5"><br><br> For this event, we had to dress up as our favorite book characters and go on a short parade! I dressed up as Avery Kylie Grambs from the book series "The Inheritance Games." It was adorable and fun seeing all the Lapiscians wear an outfit inspired by their fave. There was a short program as well, where they awarded the people who had the most extravagant costume in each section! For us, we had Yssa Uson as our winner! </font></p>
+</html>

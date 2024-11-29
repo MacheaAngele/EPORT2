@@ -1,0 +1,43 @@
+<html>
+<head><title>2nd Quarter </title>
+<link rel="stylesheet" href="eport2.css" type="text/css">
+</head>
+<body>
+<h1> 2nd Quarter E-Portfolio (´∀｀)♡</h1>
+<h2> About Me !! (ᗒᗨᗕ)</h2>
+<div class="container">
+<img src="462547643_901343878805952_7916843796227030773_n.jpg" alt="my pic" width="375" height="450">
+   <p><ul type="circle">
+        <li>Name: Machea Angele D. Lumbao</li>
+        <li> Birthday: Feburary 25, 2010</li>
+        <li> Favorite color: neutral colors (more on black and white)</li>
+        <li> Likes: reading, drawing, photography, hangouts w/ trio </li>
+        <li> Favorite music artists: Cup of Joe, W2E, Enhypen, Izna </li>
+        <li> Dislikes: crowded and hot places, unmannered people, dirty spaces and things</li>
+    </ul>
+  </p>
+</div>
+<h2> 1st Quarter E-Portfolio :O</h2>
+<style>
+    .first-qtr{text-align:center;}
+</style>
+<div class="first-qtr">
+ <a href="https://macheaangele.github.io/"><img src="5d0651a29b2b7db238a2cc2e0b6e9d18.jpg" alt="1stqtreport" width="250" height="250"></a>
+ </div>
+<h2>2nd Quarter Recap!ଘ(੭ˊᵕˋ)੭* ੈ✩‧˚ </h2>
+<div class="second-quarter">
+    <a href="outputs2.html"><img src="2ndqtracts.jpg" alt="2nd Qtr Acts" width="250" height="250"></a>
+    <p> 2nd Quarter Activties (〜^∇^)〜</p>
+</div>
+<div class="lessons">
+    <a href="lessons2.html"><img src="50522d99f413960f008be164858565da.jpg" alt="lessons" width="250" height="250"></a>
+    <p> Outputs for Each Lesson ﾍ(￣ー￣)ﾉ</p>
+    <br><br>
+    <h2> Reflection! ╭( ๐ _๐)╮  </h2>
+    <style>
+.reflec {color:#edebe8; background-color:#615d58;}
+</style>
+<p class="reflec" align="center"><font size="5"> For this quarter, we learned about CSS. Learning about this topic, for me, wasn't easy. In fact, I still do have a bit of a difficult time trying to code in CSS, since there are newer terms for me to understand. I can't deny that I made several failed outputs about using CSS, but I do try my best to understand where I am wrong. Using CSS is still a concept that is a bit new to me and learning the topics under it is quite difficult, which is why I will try very hard to study it well. I will also ask my classmates and companions, who take an interest in coding, to help me comprehend CSS and how it works better! Even though I have outputs that aren't really the best, I try to tell myself to not feel regret, because I did and tried everything I could to make an output. Fighting for the next quarter! >o< </font></p>
+</div>
+</body>
+</html>

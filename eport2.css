@@ -1,0 +1,35 @@
+body{background-image: url("background.jpg");}
+h1{font-family: "Times New Roman", Times, serif; 
+    font-size: 300%;                   
+    color: #0f0f0f;                       
+    text-align: center;               
+    font-weight: bold;                
+    margin: 20px;                   
+    text-transform: uppercase;         
+    letter-spacing: 4px;               
+    text-shadow: 5px rgba(183, 183, 183, 0.8);}
+h2{font-family: "Times New Roman", Times, serif; 
+    font-size: 280%;                   
+    color: #423e37;                       
+    text-align: center;               
+    font-weight: bold;                
+    margin: 20px;                   
+    text-transform: uppercase;         
+    letter-spacing: 4px;               
+    text-shadow: 5px rgba(183, 183, 183, 0.8);}
+.container img{margin-right:10px}
+.container {font-family: "Times New Roman";
+    font-size: 175%;                   
+    color: #333130; display:flex; align-items: center;}
+.first-qter {font-family: "Times New Roman";
+    font-size: 200%;                   
+    color: #33313; text-align:center;}
+.first-qtr img{max-width:100%;height:auto;}
+.second-quarter {font-family: "Times New Roman";
+    font-size: 200%;                   
+    color: #33313; text-align:center;}
+.second-quarter img{max-width:100%;height:auto;}
+.lessons{font-family: "Times New Roman";
+    font-size: 200%;                   
+    color: #33313; text-align:center;}
+.lessons img{max-width:100%;height:auto;}
